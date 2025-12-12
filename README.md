@@ -35,8 +35,6 @@ Automatisk uppdatering av lagersaldo
 
 Kryptering av känsliga fält i JSON med en egen EncryptionHelper
 
-Hashning och saltning av lösenord (om användarkonton används)
-
 ✔ Databasfunktioner
 
 Migrationer via EF Core
